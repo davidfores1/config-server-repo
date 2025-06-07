@@ -13,8 +13,6 @@ custom:
     activeprofileName: production
     
 spring:
-    application:
-        name: customer
     jpa:
         show-sql: true
     datasource:
